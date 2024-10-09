@@ -1,0 +1,13 @@
+TRUNCATE clientes
+
+
+
+
+
+
+
+
+
+
+
+
